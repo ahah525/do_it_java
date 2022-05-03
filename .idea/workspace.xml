@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;static 변수와 static 메서드 연습하기">
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;싱글톤 패턴으로 클래스 구현 연습하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,16 +45,30 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter6.exercise5" />
       <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarFactoryTest">
+  <component name="RunManager" selected="Application.CoffeeTest">
     <configuration name="CarFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter6.alone5.CarFactoryTest" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter6.alone5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoffeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.exercise5.CoffeeTest" />
+      <module name="do_it_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.exercise5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoffeeTest" />
         <item itemvalue="Application.CarFactoryTest" />
         <item itemvalue="Application.chapter6.alone3.StudentTest6" />
         <item itemvalue="Application.chapter6.alone2.TakeTrans" />
@@ -134,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651552651427</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;싱글톤 패턴으로 클래스 구현 연습하기">
+      <created>1651555037809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651555037809</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +174,7 @@
     <MESSAGE value="Do_it_JavaProgramming chapter5" />
     <MESSAGE value="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;택시 타는 과정을 추가로 구현하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;static 변수와 static 메서드 연습하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;static 변수와 static 메서드 연습하기" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;싱글톤 패턴으로 클래스 구현 연습하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;싱글톤 패턴으로 클래스 구현 연습하기" />
   </component>
 </project>
