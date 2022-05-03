@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;객체 배열 만들어 활용하기">
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;이차원 배열 연습하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +45,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter7.alone3" />
       <recent name="chapter6.exercise5" />
       <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AlphaArray">
+  <component name="RunManager" selected="Application.StudentArrayList">
     <configuration name="AlphaArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter7.alone2.AlphaArray" />
       <module name="do_it_java" />
@@ -102,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter6.alone3.StudentTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.alone3.StudentTest6" />
+    <configuration name="StudentArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.alone3.StudentArrayList" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter6.alone5.*" />
+          <option name="PATTERN" value="chapter7.alone3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentArrayList" />
         <item itemvalue="Application.AlphaArray" />
         <item itemvalue="Application.StudentArray" />
         <item itemvalue="Application.CoffeeTest" />
         <item itemvalue="Application.CarFactoryTest" />
-        <item itemvalue="Application.chapter6.alone3.StudentTest6" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651584908354</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;이차원 배열 연습하기">
+      <created>1651586006438</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651586006438</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +205,7 @@
     <MESSAGE value="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;싱글톤 패턴으로 클래스 구현 연습하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 6 연습문제5번" />
     <MESSAGE value="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;객체 배열 만들어 활용하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;객체 배열 만들어 활용하기" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;이차원 배열 연습하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;이차원 배열 연습하기" />
   </component>
 </project>
