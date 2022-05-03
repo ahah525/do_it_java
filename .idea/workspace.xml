@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/do_it_java.iml" afterDir="false" />
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/do_it_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/do_it_java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -31,7 +28,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28bWu09xwE8cqmXI3UchWztLmHJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +44,25 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StudentTest6">
+    <configuration name="StudentTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.alone3.StudentTest6" />
+      <module name="do_it_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.alone3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="chapter5.MyDateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.MyDateTest" />
       <module name="do_it_java" />
@@ -53,8 +70,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chapter6.alone2.TakeTrans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.alone2.TakeTrans" />
+      <module name="do_it_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.alone2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest6" />
+        <item itemvalue="Application.chapter6.alone2.TakeTrans" />
         <item itemvalue="Application.chapter5.MyDateTest" />
       </list>
     </recent_temporary>
@@ -68,6 +100,14 @@
       <option name="presentableId" value="Default" />
       <updated>1651485990489</updated>
     </task>
+    <task id="LOCAL-00001" summary="Do_it_JavaProgramming chapter5">
+      <created>1651499867271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651499867271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Do_it_JavaProgramming chapter5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter5" />
   </component>
 </project>
