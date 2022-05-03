@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter5">
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;static 변수와 static 메서드 연습하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/do_it_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/do_it_java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +48,13 @@
       <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentTest6">
-    <configuration name="StudentTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.alone3.StudentTest6" />
+  <component name="RunManager" selected="Application.CarFactoryTest">
+    <configuration name="CarFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.alone5.CarFactoryTest" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter6.alone3.*" />
+          <option name="PATTERN" value="chapter6.alone5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,9 +82,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chapter6.alone3.StudentTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.alone3.StudentTest6" />
+      <module name="do_it_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.alone5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentTest6" />
+        <item itemvalue="Application.CarFactoryTest" />
+        <item itemvalue="Application.chapter6.alone3.StudentTest6" />
         <item itemvalue="Application.chapter6.alone2.TakeTrans" />
         <item itemvalue="Application.chapter5.MyDateTest" />
       </list>
@@ -107,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651499867271</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;택시 타는 과정을 추가로 구현하기">
+      <created>1651552624752</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651552624752</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;static 변수와 static 메서드 연습하기">
+      <created>1651552651427</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651552651427</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Do_it_JavaProgramming chapter5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter5" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;택시 타는 과정을 추가로 구현하기" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;static 변수와 static 메서드 연습하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;static 변수와 static 메서드 연습하기" />
   </component>
 </project>
