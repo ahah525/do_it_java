@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 9 나 혼자 코딩!&#10;추상 클래스 구현하기">
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 9 나 혼자 코딩!&#10;공통으로 사용하는 메서드를 상위 클래스에 추가하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.chapter9.alone2.CarTest">
+  <component name="RunManager" selected="Application.MainBoard">
     <configuration name="ArrayTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter7.exercise3.ArrayTest2" />
       <module name="do_it_java" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.example4.StudentTest" />
+    <configuration name="MainBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.example3.MainBoard" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter7.example4.*" />
+          <option name="PATTERN" value="chapter9.example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainBoard" />
         <item itemvalue="Application.chapter9.alone2.CarTest" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.ArrayTest2" />
         <item itemvalue="Application.chapter7.exercise2.AlphaArray" />
-        <item itemvalue="Application.StudentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651649582636</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Do_it_JavaProgramming chapter 9 나 혼자 코딩!&#10;공통으로 사용하는 메서드를 상위 클래스에 추가하기">
+      <created>1651793629239</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651793629239</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +262,22 @@
     <MESSAGE value="Do_it_JavaProgramming chapter 7 연습문제3&#10;1 ~ 10 중 짝수만 배열에 저장한 후 합 출력하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 7 연습문제5&#10;ArrayList를 사용하여 Dog 정보 출력하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 9 나 혼자 코딩!&#10;추상 클래스 구현하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 9 나 혼자 코딩!&#10;추상 클래스 구현하기" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 9 나 혼자 코딩!&#10;공통으로 사용하는 메서드를 상위 클래스에 추가하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 9 나 혼자 코딩!&#10;공통으로 사용하는 메서드를 상위 클래스에 추가하기" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/chapter9/alone2/CarTest.java</url>
+          <line>3</line>
+          <properties class="chapter9.alone2.CarTest" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
