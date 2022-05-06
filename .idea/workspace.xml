@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 9 연습문제5" />
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 9 연습문제6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,13 +56,13 @@
       <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.chapter9.exercise6.CarTest">
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9.alone1.CarTest" />
+  <component name="RunManager" selected="Application.SchedulerTest">
+    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.alone1.CalculatorTest" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9.alone1.*" />
+          <option name="PATTERN" value="chapter10.alone1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter9.alone2.CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9.alone2.CarTest" />
+    <configuration name="SchedulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.alone2.SchedulerTest" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9.alone2.*" />
+          <option name="PATTERN" value="chapter10.alone2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SchedulerTest" />
+        <item itemvalue="Application.CalculatorTest" />
         <item itemvalue="Application.chapter9.exercise6.CarTest" />
         <item itemvalue="Application.chapter9.exercise5.CarTest" />
         <item itemvalue="Application.MainBoard" />
-        <item itemvalue="Application.chapter9.alone2.CarTest" />
-        <item itemvalue="Application.CarTest" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651814538238</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Do_it_JavaProgramming chapter 9 연습문제6">
+      <created>1651814759733</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1651814759733</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +298,8 @@
     <MESSAGE value="Do_it_JavaProgramming chapter 9 나 혼자 코딩!&#10;공통으로 사용하는 메서드를 상위 클래스에 추가하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 9 예제3&#10;템플릿 메서드 응용하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 9 연습문제5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 9 연습문제5" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 9 연습문제6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 9 연습문제6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
