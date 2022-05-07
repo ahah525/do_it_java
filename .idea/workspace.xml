@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 9 연습문제6">
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 10 나 혼자 코딩!&#10;상담 전화 배분 정책 추가하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HSY/Desktop/java/do_it_java/src/chapter9/exercise6",
+    "last_opened_file_path": "C:/Users/HSY/Desktop/java/do_it_java/src/chapter10/example3",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -47,6 +47,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HSY\Desktop\java\do_it_java\src\chapter10\example3" />
       <recent name="C:\Users\HSY\Desktop\java\do_it_java\src\chapter9\exercise6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -56,7 +57,7 @@
       <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SchedulerTest">
+  <component name="RunManager" selected="Application.chapter10.example3.CalculatorTest">
     <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter10.alone1.CalculatorTest" />
       <module name="do_it_java" />
@@ -70,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9.example3.MainBoard" />
+    <configuration name="SchedulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.alone2.SchedulerTest" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter9.example3.*" />
+          <option name="PATTERN" value="chapter10.alone2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchedulerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.alone2.SchedulerTest" />
+    <configuration name="chapter10.example3.CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.example3.CalculatorTest" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10.alone2.*" />
+          <option name="PATTERN" value="chapter10.example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.chapter10.example3.CalculatorTest" />
         <item itemvalue="Application.SchedulerTest" />
         <item itemvalue="Application.CalculatorTest" />
         <item itemvalue="Application.chapter9.exercise6.CarTest" />
         <item itemvalue="Application.chapter9.exercise5.CarTest" />
-        <item itemvalue="Application.MainBoard" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +268,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651814759733</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Do_it_JavaProgramming chapter 10 나 혼자 코딩!&#10;Calc 인터페이스에 새로운 메서드 추가하기">
+      <created>1651823362932</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651823362932</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Do_it_JavaProgramming chapter 10 나 혼자 코딩!&#10;상담 전화 배분 정책 추가하기">
+      <created>1651823385849</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651823385849</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,7 +314,9 @@
     <MESSAGE value="Do_it_JavaProgramming chapter 9 예제3&#10;템플릿 메서드 응용하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 9 연습문제5" />
     <MESSAGE value="Do_it_JavaProgramming chapter 9 연습문제6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 9 연습문제6" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 10 나 혼자 코딩!&#10;Calc 인터페이스에 새로운 메서드 추가하기" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 10 나 혼자 코딩!&#10;상담 전화 배분 정책 추가하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 10 나 혼자 코딩!&#10;상담 전화 배분 정책 추가하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
