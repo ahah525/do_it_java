@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 11 나 혼자 코딩!&#10;MyDate 클래스의 hashCode() 메서드 재정의하기">
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 11 나 혼자 코딩!&#10;Person 클래스 정보 가져오기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonTest">
+  <component name="RunManager" selected="Application.Q4">
     <configuration name="MyDateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter11.alone1_2.MyDateTest" />
       <module name="do_it_java" />
@@ -77,6 +77,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter11.alone4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.exercise4.Q4" />
+      <module name="do_it_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter11.exercise4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter10.example3.CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.example3.CalculatorTest" />
-      <module name="do_it_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter10.example3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q4" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.MyDateTest" />
         <item itemvalue="Application.chapter11.alone1_1.StudentTest" />
         <item itemvalue="Application.SortTest" />
-        <item itemvalue="Application.chapter10.example3.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651915133187</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Do_it_JavaProgramming chapter 11 나 혼자 코딩!&#10;Person 클래스 정보 가져오기">
+      <created>1651918057642</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1651918057642</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,7 +362,8 @@
     <MESSAGE value="Do_it_JavaProgramming chapter 10 연습문제 7&#10;인터페이스 설계 및 인터페이스를 구현한 알고리즘 클래스 만들기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 11 나 혼자 코딩!&#10;toString() 메서드 직접 재정의하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 11 나 혼자 코딩!&#10;MyDate 클래스의 hashCode() 메서드 재정의하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 11 나 혼자 코딩!&#10;MyDate 클래스의 hashCode() 메서드 재정의하기" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 11 나 혼자 코딩!&#10;Person 클래스 정보 가져오기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 11 나 혼자 코딩!&#10;Person 클래스 정보 가져오기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
