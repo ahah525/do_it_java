@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 10 예제3">
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 10 연습문제 7&#10;인터페이스 설계 및 인터페이스를 구현한 알고리즘 클래스 만들기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +57,13 @@
       <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortTest">
-    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.alone1.CalculatorTest" />
+  <component name="RunManager" selected="Application.MyDateTest">
+    <configuration name="MyDateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.alone1_2.MyDateTest" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10.alone1.*" />
+          <option name="PATTERN" value="chapter11.alone1_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +97,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter11.alone1_1.StudentTest" />
+      <module name="do_it_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter11.alone1_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="chapter10.example3.CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter10.example3.CalculatorTest" />
       <module name="do_it_java" />
@@ -110,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter9.exercise6.CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter9.exercise6.CarTest" />
-      <module name="do_it_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter9.exercise6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyDateTest" />
+        <item itemvalue="Application.chapter11.alone1_1.StudentTest" />
         <item itemvalue="Application.SortTest" />
         <item itemvalue="Application.chapter10.example3.CalculatorTest" />
         <item itemvalue="Application.SchedulerTest" />
-        <item itemvalue="Application.CalculatorTest" />
-        <item itemvalue="Application.chapter9.exercise6.CarTest" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +289,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651896760087</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Do_it_JavaProgramming chapter 10 연습문제 7&#10;인터페이스 설계 및 인터페이스를 구현한 알고리즘 클래스 만들기">
+      <created>1651899759664</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1651899759664</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Do_it_JavaProgramming chapter 10 연습문제 7&#10;인터페이스 설계 및 인터페이스를 구현한 알고리즘 클래스 만들기">
+      <created>1651899771733</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1651899771733</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,7 +338,8 @@
     <MESSAGE value="Do_it_JavaProgramming chapter 10 나 혼자 코딩!&#10;Calc 인터페이스에 새로운 메서드 추가하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 10 나 혼자 코딩!&#10;상담 전화 배분 정책 추가하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 10 예제3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 10 예제3" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 10 연습문제 7&#10;인터페이스 설계 및 인터페이스를 구현한 알고리즘 클래스 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 10 연습문제 7&#10;인터페이스 설계 및 인터페이스를 구현한 알고리즘 클래스 만들기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
