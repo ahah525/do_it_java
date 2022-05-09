@@ -20,7 +20,7 @@ public class CarFactory {
     }
     
     // 자동차를 만드는 메서드
-    public Car createCar() {
+    public Car createCar(String 연수_차) {
         return new Car();   // 자동차 클래스 생성
     }
 }
