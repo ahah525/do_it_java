@@ -1,4 +1,4 @@
-package chpater12.alone3;
+package chapter12.alone3;
 
 public class Member {
     private int id;   // 회원 아이디

@@ -1,4 +1,4 @@
-package chpater12.alone3;
+package chapter12.alone3;
 
 import java.util.ArrayList;
 

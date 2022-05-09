@@ -1,4 +1,4 @@
-package chpater12.alone3;
+package chapter12.alone3;
 
 public class MemberArrayListTest {
     public static void main(String[] args){
