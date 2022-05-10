@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 13 연습문제5&#10;두 정수의 합을 반환하는 람다식 구현하고 호출하기">
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 13 연습문제6&#10;스트림 활용">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter13/exercise7/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter13/exercise7/LibraryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -382,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652151929608</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Do_it_JavaProgramming chapter 13 연습문제6&#10;스트림 활용">
+      <created>1652152982075</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1652152982075</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -397,7 +405,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;이차원 배열 연습하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;ArrayList 활용하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 7 &#10;배열 응용 프로그램 예제" />
     <MESSAGE value="Do_it_JavaProgramming chapter 7 연습문제2&#10;각 배열 요소 값을 소문자에서 대문자로 변환하여 출력하기" />
@@ -422,7 +429,8 @@
     <MESSAGE value="Do_it_JavaProgramming chapter 12 연습문제5" />
     <MESSAGE value="Do_it_JavaProgramming chapter 12-4 나 혼자 코딩!&#10;회원 이름 순으로 정렬하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 13 연습문제5&#10;두 정수의 합을 반환하는 람다식 구현하고 호출하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 13 연습문제5&#10;두 정수의 합을 반환하는 람다식 구현하고 호출하기" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 13 연습문제6&#10;스트림 활용" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 13 연습문제6&#10;스트림 활용" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

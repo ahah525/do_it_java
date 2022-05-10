@@ -41,14 +41,15 @@ public class LibraryTest {
 
         // 모든 책 가격의 합
         int totalPrice = bookList.stream().
-                mapToInt(b->b.getPrice()).sum();
+                mapToInt(b->b.getPrice())  // IntStream으로 반환
+                .sum();      // Stream 의 총합(최종 연산)
         System.out.println("모든 책의 가격의 합 = " + totalPrice + "원");
 
         // 책의 가격이 20000원 이상인 책의 이름을 정렬하여 출력
-        bookList.stream().
-                filter(b->b.getPrice() >= 20000).
-                map(b->b.getName()).
-                sorted().
-                forEach(s->System.out.println(s));
+        bookList.stream()
+                .filter(b->b.getPrice() >= 20000)
+                .map(b->b.getName()) // 이름만 가져오기
+                .sorted()            // 정렬
+                .forEach(s->System.out.println(s));  // 최종 연산
     }
 }
