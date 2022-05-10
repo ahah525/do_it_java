@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 12 연습문제5">
+    <list default="true" id="db9bbc6e-e1f6-4db9-8d26-95bfd575424f" name="Changes" comment="Do_it_JavaProgramming chapter 12-4 나 혼자 코딩!&#10;회원 이름 순으로 정렬하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter12/exercise5/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12/exercise5/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/alone5/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/alone5/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/alone5/CarFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/alone5/CarFactoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/HSY/Desktop/java/do_it_java/src/chapter13",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HSY/Desktop/java/do_it_java/src/chapter13&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HSY\Desktop\java\do_it_java\src\chapter13" />
@@ -62,13 +59,13 @@
       <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CarTest">
-    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12.exercise6.CarTest" />
+  <component name="RunManager" selected="Application.CalcTest">
+    <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter13.exercise5.CalcTest" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter12.exercise6.*" />
+          <option name="PATTERN" value="chapter13.exercise5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MemberArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter12.alone3.MemberArrayListTest" />
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.exercise6.CarTest" />
       <module name="do_it_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter12.alone3.*" />
+          <option name="PATTERN" value="chapter12.exercise6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +127,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalcTest" />
         <item itemvalue="Application.CarTest" />
         <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.chapter12.alone4.MemberTreeSetTest" />
         <item itemvalue="Application.chapter13.alone4.MemberTreeSetTest" />
-        <item itemvalue="Application.chapter12.alone3.MemberArrayListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +353,28 @@
       <option name="project" value="LOCAL" />
       <updated>1652102757490</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Do_it_JavaProgramming chapter 12 연습문제6">
+      <created>1652106004695</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1652106004695</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Do_it_JavaProgramming chapter 12 연습문제5">
+      <created>1652106036412</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1652106036412</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Do_it_JavaProgramming chapter 12-4 나 혼자 코딩!&#10;회원 이름 순으로 정렬하기">
+      <created>1652106079738</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1652106079738</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -372,8 +389,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Do_it_JavaProgramming chapter 6 나혼자 코딩&#10;싱글톤 패턴으로 클래스 구현 연습하기" />
-    <MESSAGE value="Do_it_JavaProgramming chapter 6 연습문제5번" />
     <MESSAGE value="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;객체 배열 만들어 활용하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;이차원 배열 연습하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 7 나 혼자 코딩!&#10;ArrayList 활용하기" />
@@ -396,8 +411,10 @@
     <MESSAGE value="Do_it_JavaProgramming chapter 11 연습문제" />
     <MESSAGE value="Do_it_JavaProgramming chapter 12 나 혼자 코딩!&#10;ArrayList의 특정 위치에 회원 추가하기" />
     <MESSAGE value="Do_it_JavaProgramming chapter 12-3 나 혼자 코딩!&#10;ArrayList의 특정 위치에 회원 추가하기" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 12 연습문제6" />
     <MESSAGE value="Do_it_JavaProgramming chapter 12 연습문제5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 12 연습문제5" />
+    <MESSAGE value="Do_it_JavaProgramming chapter 12-4 나 혼자 코딩!&#10;회원 이름 순으로 정렬하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Do_it_JavaProgramming chapter 12-4 나 혼자 코딩!&#10;회원 이름 순으로 정렬하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
